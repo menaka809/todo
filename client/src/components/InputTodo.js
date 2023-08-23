@@ -29,7 +29,7 @@ const InputTodo = () => {
             setdescription(event.target.value);
           }}
         ></input>
-        <button className="btn btn-success">Add</button>
+        <button className="btn btn-success ml-5">Add</button>
       </form>
     </Fragment>
   );
